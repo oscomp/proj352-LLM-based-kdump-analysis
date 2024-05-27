@@ -20,8 +20,8 @@
 
 ## 项目导师
 
-- 文羽中
-- email wenyuzhong1@huawei.com
+- 张波
+- email oscar.zhangbo@huawei.com
 
 ## 赛题分类
 未归类的应用（如机器人、无人机等）
